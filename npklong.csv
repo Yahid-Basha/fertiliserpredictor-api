@@ -1,0 +1,1132 @@
+CropType,Temparature,Humidity,Moisture,SoilType,Nitrogen,Potassium,Phosphorous,FertilizerName
+Cotton,31,12,62,Black,39,0,0,Urea
+Paddy,,59,41,Clayey,10,19,18,10-26-26
+Cotton,25,14,63,Loamy,35,0,0,Urea
+Cotton,30,15,64,Loamy,35,0,0,Urea
+Ground Nuts,31,29,38,Red,24,0,22,28-28
+Cotton,25,50,64,Red,9,5,42,20-20
+Paddy,,54,36,Clayey,7,16,19,10-26-26
+Cotton,29,12,63,Loamy,32,0,0,Urea
+Paddy,,54,33,Clayey,7,15,20,10-26-26
+Cotton,26,12,61,Loamy,36,0,0,Urea
+Sugarcane,29,44,50,Loamy,7,7,34,14-35-14
+Ground Nuts,31,60,32,Red,35,0,0,Urea
+Sugarcane,30,67,50,Loamy,9,6,30,14-35-14
+Maize,28,16,42,Sandy,34,0,0,Urea
+Ground Nuts,29,44,41,Red,40,0,0,Urea
+Maize,28,72,37,Sandy,10,7,32,14-35-14
+Maize,31,18,38,Sandy,36,0,0,Urea
+Maize,30,73,34,Sandy,9,10,25,14-35-14
+Paddy,,61,25,Clayey,9,17,21,10-26-26
+Ground Nuts,25,51,39,Red,39,0,0,Urea
+Cotton,28,16,64,Loamy,37,0,0,Urea
+Maize,32,16,43,Sandy,36,0,0,Urea
+Paddy,,90,36,Clayey,12,16,19,10-26-26
+Paddy,,66,36,Clayey,10,15,19,10-26-26
+Paddy,,55,32,Clayey,5,18,22,10-26-26
+Ground Nuts,32,56,33,Red,34,0,0,Urea
+Paddy,,63,36,Clayey,5,15,22,10-26-26
+Ground Nuts,25,52,38,Red,41,0,0,Urea
+Sugarcane,29,58,55,Loamy,8,0,44,14-35-14
+Maize,28,68,45,Sandy,24,0,20,28-28
+Paddy,,55,43,Clayey,6,18,22,10-26-26
+Paddy,,72,30,Clayey,10,18,21,10-26-26
+Maize,29,18,39,Sandy,30,0,0,Urea
+Cotton,29,13,62,Loamy,36,0,0,Urea
+Ground Nuts,28,43,34,Red,35,0,0,Urea
+Ground Nuts,28,28,38,Red,23,0,22,28-28
+Ground Nuts,27,57,39,Red,38,0,0,Urea
+Ground Nuts,26,52,36,Red,38,0,0,Urea
+Cotton,30,19,64,Loamy,38,0,0,Urea
+Paddy,,68,39,Clayey,9,18,20,10-26-26
+Paddy,,86,37,Clayey,10,16,21,10-26-26
+Ground Nuts,30,68,36,Red,39,0,0,Urea
+Paddy,27,44,35,Clayey,25,0,20,28-28
+Ground Nuts,30,48,29,Red,41,0,0,Urea
+Paddy,,89,29,Clayey,13,18,18,10-26-26
+Cotton,29,2,62,Black,7,9,30,14-35-14
+Paddy,,71,39,Clayey,7,18,17,10-26-26
+Cotton,27,24,61,Loamy,8,9,26,14-35-14
+Paddy,,52,30,Clayey,8,19,18,10-26-26
+Maize,28,19,37,Sandy,33,0,0,Urea
+Paddy,26,81,32,Clayey,9,16,18,10-26-26
+Cotton,29,17,64,Loamy,33,0,0,Urea
+Ground Nuts,30,47,37,Red,41,0,0,Urea
+Sugarcane,25,68,51,Loamy,9,5,35,14-35-14
+Paddy,,85,33,Clayey,5,16,18,10-26-26
+Ground Nuts,26,59,30,Red,37,0,0,Urea
+Paddy,,51,30,Clayey,8,19,22,10-26-26
+Paddy,,89,26,Clayey,12,19,18,10-26-26
+Maize,26,16,36,Sandy,36,0,0,Urea
+Cotton,29,10,60,Loamy,31,0,0,Urea
+Paddy,29,13,41,Clayey,24,0,22,10-26-26
+Wheat,29,58,52,Loamy,13,1,43,DAP
+Cotton,25,19,64,Black,32,0,0,Urea
+Cotton,26,19,64,Loamy,34,0,0,Urea
+Cotton,25,62,63,Black,24,0,19,28-28
+Ground Nuts,27,57,29,Red,34,0,0,Urea
+Paddy,,74,36,Clayey,8,16,21,10-26-26
+Cotton,32,26,63,Red,9,9,29,14-35-14
+Paddy,,51,28,Clayey,6,18,19,10-26-26
+Paddy,,90,33,Clayey,13,16,18,10-26-26
+Cotton,25,13,61,Loamy,36,0,0,Urea
+Paddy,,83,45,Clayey,13,18,21,10-26-26
+Cotton,28,14,62,Loamy,37,0,0,Urea
+Paddy,,59,42,Clayey,10,18,18,10-26-26
+Maize,31,10,44,Sandy,33,0,0,Urea
+Maize,26,16,44,Sandy,36,0,0,Urea
+Maize,29,12,38,Sandy,30,0,0,Urea
+Maize,27,81,54,Sandy,9,7,25,14-35-14
+Cotton,29,16,63,Loamy,34,0,0,Urea
+Maize,29,19,40,Sandy,33,0,0,Urea
+Maize,28,15,43,Sandy,32,0,0,Urea
+Cotton,25,12,60,Loamy,35,0,0,Urea
+Cotton,25,17,61,Loamy,37,0,0,Urea
+Ground Nuts,32,57,33,Red,35,0,0,Urea
+Paddy,,58,43,Clayey,12,18,21,10-26-26
+Ground Nuts,27,53,39,Red,39,0,0,Urea
+Paddy,33,64,39,Clayey,13,1,44,20-20
+Paddy,,62,30,Clayey,12,18,19,10-26-26
+Paddy,,89,30,Clayey,5,16,20,10-26-26
+Paddy,,60,26,Clayey,9,16,22,10-26-26
+Cotton,28,18,60,Loamy,32,0,0,Urea
+Ground Nuts,26,43,29,Red,39,0,0,Urea
+Cotton,28,16,62,Loamy,38,0,0,Urea
+Maize,26,53,46,Sandy,22,0,20,28-28
+Paddy,32,41,38,Clayey,38,0,0,Urea
+Maize,29,13,41,Sandy,38,0,0,Urea
+Ground Nuts,27,57,39,Red,38,0,0,Urea
+Paddy,,84,34,Clayey,5,15,17,10-26-26
+Cotton,32,11,60,Loamy,32,0,0,Urea
+Cotton,30,13,64,Loamy,31,0,0,Urea
+Paddy,,84,36,Clayey,6,19,19,10-26-26
+Cotton,26,11,64,Loamy,32,0,0,Urea
+Cotton,29,15,63,Loamy,37,0,0,Urea
+Ground Nuts,30,42,39,Red,34,0,0,Urea
+Paddy,,83,42,Clayey,9,16,17,10-26-26
+Paddy,,79,32,Clayey,8,16,20,10-26-26
+Paddy,,84,38,Clayey,5,17,19,10-26-26
+Maize,32,17,40,Sandy,34,0,0,Urea
+Paddy,30,57,41,Clayey,12,16,20,10-26-26
+Maize,29,13,43,Sandy,37,0,0,Urea
+Maize,32,18,39,Sandy,35,0,0,Urea
+Cotton,27,15,60,Loamy,34,0,0,Urea
+Paddy,,54,32,Clayey,8,15,18,10-26-26
+Paddy,,51,29,Clayey,8,19,21,10-26-26
+Cotton,31,12,63,Loamy,32,0,0,Urea
+Paddy,,67,40,Clayey,9,17,21,10-26-26
+Paddy,,74,30,Clayey,6,18,22,10-26-26
+Ground Nuts,31,50,34,Red,35,0,0,Urea
+Maize,26,14,34,Sandy,36,0,0,Urea
+Paddy,,74,44,Clayey,9,18,18,10-26-26
+Cotton,25,31,57,Black,5,9,27,14-35-14
+Ground Nuts,26,45,36,Red,37,0,0,Urea
+Paddy,29,66,26,Clayey,8,19,19,10-26-26
+Cotton,32,19,63,Loamy,37,0,0,Urea
+Ground Nuts,31,53,39,Red,40,0,0,Urea
+Cotton,32,62,63,Black,24,0,20,28-28
+Paddy,,79,36,Clayey,5,15,20,10-26-26
+Paddy,27,77,46,Clayey,9,12,28,14-35-14
+Cotton,28,26,63,Red,9,9,29,14-35-14
+Cotton,34,65,62,Black,7,3,36,14-35-14
+Paddy,,81,32,Clayey,5,15,22,10-26-26
+Ground Nuts,28,87,32,Red,38,0,0,Urea
+Paddy,,57,35,Clayey,11,18,19,10-26-26
+Paddy,27,33,40,Clayey,34,0,0,Urea
+Paddy,29,81,36,Clayey,8,18,21,10-26-26
+Paddy,,54,29,Clayey,11,15,19,10-26-26
+Maize,31,50,40,Sandy,6,8,29,14-35-14
+Paddy,28,32,38,Clayey,39,0,0,Urea
+Cotton,26,15,63,Black,34,0,0,Urea
+Maize,27,17,38,Sandy,34,0,0,Urea
+Paddy,,76,43,Clayey,11,16,17,10-26-26
+Paddy,,89,28,Clayey,10,19,17,10-26-26
+Paddy,26,78,40,Clayey,9,8,22,14-35-14
+Cotton,25,11,60,Loamy,38,0,0,Urea
+Cotton,31,17,62,Black,30,0,0,Urea
+Cotton,27,18,61,Loamy,33,0,0,Urea
+Paddy,,91,27,Clayey,9,16,17,10-26-26
+Paddy,29,82,45,Clayey,8,8,28,14-35-14
+Maize,25,13,43,Sandy,39,0,0,Urea
+Paddy,,82,42,Clayey,11,15,19,10-26-26
+Sugarcane,29,53,59,Loamy,10,7,33,14-35-14
+Cotton,29,14,61,Loamy,31,0,0,Urea
+Cotton,27,11,64,Loamy,37,0,0,Urea
+Ground Nuts,26,51,41,Red,40,0,0,Urea
+Cotton,29,10,60,Loamy,38,0,0,Urea
+Paddy,,79,39,Clayey,5,17,17,10-26-26
+Ground Nuts,31,29,41,Red,22,0,22,28-28
+Ground Nuts,26,52,31,Red,14,4,38,DAP
+Paddy,,68,26,Clayey,9,19,22,10-26-26
+Cotton,28,12,63,Loamy,33,0,0,Urea
+Cotton,31,17,64,Loamy,30,0,0,Urea
+Cotton,27,35,64,Loamy,10,8,27,14-35-14
+Ground Nuts,29,45,31,Red,35,0,0,Urea
+Cotton,32,64,63,Black,24,0,19,28-28
+Paddy,,90,44,Clayey,13,16,20,10-26-26
+Cotton,30,17,62,Loamy,32,0,0,Urea
+Cotton,27,2,62,Black,7,9,30,14-35-14
+Paddy,,66,44,Clayey,8,15,17,10-26-26
+Ground Nuts,25,29,41,Red,24,0,23,28-28
+Maize,28,76,50,Sandy,20,0,19,28-28
+Cotton,29,18,61,Loamy,39,0,0,Urea
+Maize,30,46,42,Sandy,20,0,20,28-28
+Paddy,25,55,36,Clayey,34,0,0,Urea
+Cotton,25,17,61,Loamy,31,0,0,Urea
+Paddy,,79,30,Clayey,12,19,22,10-26-26
+Paddy,,52,35,Clayey,8,18,21,10-26-26
+Paddy,,56,36,Clayey,9,15,19,10-26-26
+Cotton,26,63,64,Black,22,0,20,28-28
+Maize,29,13,38,Sandy,33,0,0,Urea
+Paddy,,86,43,Clayey,5,17,22,10-26-26
+Ground Nuts,31,29,40,Red,24,0,23,28-28
+Cotton,29,16,62,Loamy,37,0,0,Urea
+Paddy,,53,39,Clayey,13,15,18,10-26-26
+Maize,28,18,42,Sandy,34,0,0,Urea
+Paddy,25,48,38,Clayey,34,0,0,Urea
+Ground Nuts,30,29,39,Red,24,0,22,28-28
+Sugarcane,34,65,53,Loamy,12,4,39,17-17-17
+Paddy,,50,38,Clayey,9,19,20,10-26-26
+Paddy,,82,35,Clayey,6,16,20,10-26-26
+Maize,31,14,42,Sandy,37,0,0,Urea
+Paddy,,61,34,Clayey,10,18,17,10-26-26
+Paddy,,61,30,Clayey,10,17,22,10-26-26
+Ground Nuts,28,54,30,Red,36,0,0,Urea
+Cotton,29,17,62,Black,30,0,0,Urea
+Paddy,31,36,44,Clayey,36,0,0,Urea
+Paddy,34,65,45,Clayey,6,0,28,10-26-26
+Ground Nuts,32,54,35,Red,36,0,0,Urea
+Ground Nuts,28,46,38,Red,38,0,0,Urea
+Cotton,29,13,62,Loamy,36,0,0,Urea
+Paddy,,54,31,Clayey,5,17,21,10-26-26
+Ground Nuts,26,29,38,Red,24,0,23,28-28
+Paddy,,51,36,Clayey,5,17,22,10-26-26
+Paddy,,75,43,Clayey,12,19,20,10-26-26
+Maize,25,11,36,Sandy,35,0,0,Urea
+Paddy,,83,28,Clayey,13,15,19,10-26-26
+Cotton,28,16,61,Loamy,35,0,0,Urea
+Paddy,,55,25,Clayey,6,17,21,10-26-26
+Maize,28,66,30,Sandy,5,7,29,14-35-14
+Paddy,,81,37,Clayey,6,19,18,10-26-26
+Paddy,,68,37,Clayey,11,15,22,10-26-26
+Ground Nuts,32,43,40,Red,38,0,0,Urea
+Maize,29,16,42,Sandy,39,0,0,Urea
+Cotton,32,16,64,Loamy,35,0,0,Urea
+Cotton,29,16,60,Loamy,36,0,0,Urea
+Ground Nuts,31,48,35,Red,36,0,0,Urea
+Cotton,29,17,61,Loamy,32,0,0,Urea
+Paddy,,77,37,Clayey,5,17,21,10-26-26
+Paddy,,56,32,Clayey,13,15,22,10-26-26
+Maize,30,13,32,Sandy,32,0,0,Urea
+Maize,32,60,44,Sandy,5,10,30,14-35-14
+Cotton,27,17,62,Loamy,36,0,0,Urea
+Paddy,,85,31,Clayey,8,17,22,10-26-26
+Cotton,29,19,61,Loamy,30,0,0,Urea
+Cotton,27,22,62,Loamy,7,10,30,14-35-14
+Paddy,,77,44,Clayey,9,19,20,10-26-26
+Sugarcane,27,62,57,Loamy,8,6,37,14-35-14
+Ground Nuts,25,59,39,Red,37,0,0,Urea
+Ground Nuts,30,55,35,Red,34,0,0,Urea
+Cotton,28,10,64,Loamy,38,0,0,Urea
+Cotton,28,14,62,Loamy,35,0,0,Urea
+Ground Nuts,32,53,39,Red,39,0,0,Urea
+Paddy,,80,29,Clayey,9,19,18,10-26-26
+Paddy,,58,44,Clayey,5,15,19,10-26-26
+Paddy,,65,31,Clayey,9,15,18,10-26-26
+Paddy,,86,32,Clayey,12,15,20,10-26-26
+Maize,29,18,37,Sandy,34,0,0,Urea
+Maize,30,18,41,Sandy,30,0,0,Urea
+Maize,29,14,44,Sandy,34,0,0,Urea
+Cotton,26,15,64,Loamy,37,0,0,Urea
+Cotton,25,50,65,Loamy,36,5,39,Urea
+Sugarcane,30,54,59,Loamy,11,8,38,14-35-14
+Paddy,,57,36,Clayey,8,15,17,10-26-26
+Ground Nuts,29,67,38,Red,35,0,0,Urea
+Ground Nuts,27,44,40,Red,41,0,0,Urea
+Maize,28,12,32,Sandy,32,0,0,Urea
+Paddy,32,87,43,Clayey,5,19,21,10-26-26
+Paddy,27,64,39,Clayey,11,19,22,10-26-26
+Cotton,26,19,61,Loamy,38,0,0,Urea
+Paddy,,64,29,Clayey,10,15,17,10-26-26
+Cotton,32,16,62,Loamy,31,0,0,Urea
+Paddy,,66,30,Clayey,12,16,19,10-26-26
+Ground Nuts,27,58,30,Red,40,0,0,Urea
+Sugarcane,32,41,60,Loamy,10,9,32,14-35-14
+Ground Nuts,32,62,34,Red,15,2,37,DAP
+Paddy,,89,44,Clayey,9,19,17,10-26-26
+Cotton,27,10,60,Loamy,30,0,0,Urea
+Cotton,25,12,61,Loamy,34,0,0,Urea
+Cotton,31,17,61,Loamy,33,0,0,Urea
+Cotton,31,15,61,Loamy,30,0,0,Urea
+Cotton,30,19,64,Loamy,39,0,0,Urea
+Maize,28,48,46,Sandy,21,0,18,28-28
+Cotton,27,16,62,Loamy,34,0,0,Urea
+Maize,31,33,46,Sandy,22,0,19,28-28
+Cotton,29,10,60,Loamy,36,0,0,Urea
+Ground Nuts,29,78,30,Red,36,0,0,Urea
+Maize,27,16,38,Sandy,31,0,0,Urea
+Cotton,29,12,63,Loamy,32,0,0,Urea
+Cotton,30,17,62,Loamy,37,0,0,Urea
+Cotton,25,18,64,Loamy,33,0,0,Urea
+Cotton,28,16,62,Loamy,35,0,0,Urea
+Ground Nuts,29,45,35,Red,40,0,0,Urea
+Ground Nuts,32,58,37,Red,34,0,0,Urea
+Sugarcane,27,40,54,Loamy,9,5,31,14-35-14
+Paddy,,80,42,Clayey,6,19,20,10-26-26
+Ground Nuts,29,54,41,Red,38,0,0,Urea
+Sugarcane,25,41,58,Loamy,10,7,32,14-35-14
+Maize,30,16,44,Sandy,35,0,0,Urea
+Cotton,30,16,64,Loamy,35,0,0,Urea
+Paddy,27,75,25,Clayey,13,18,18,10-26-26
+Cotton,26,11,60,Loamy,33,0,0,Urea
+Cotton,36,68,62,Red,15,2,35,DAP
+Paddy,,84,27,Clayey,12,15,21,10-26-26
+Maize,28,54,25,Sandy,9,3,31,14-35-14
+Paddy,,72,27,Clayey,5,19,22,10-26-26
+Ground Nuts,26,56,34,Red,40,0,0,Urea
+Ground Nuts,26,56,34,Red,40,0,0,Urea
+Ground Nuts,29,62,31,Red,34,0,0,Urea
+Ground Nuts,29,58,32,Red,37,0,0,Urea
+Maize,31,15,39,Sandy,31,0,0,Urea
+Paddy,,50,33,Clayey,11,15,19,10-26-26
+Paddy,27,34,41,Clayey,37,0,0,Urea
+Ground Nuts,28,49,33,Red,36,0,0,Urea
+Paddy,26,56,44,Clayey,39,0,0,Urea
+Paddy,,58,26,Clayey,12,18,21,10-26-26
+Paddy,30,34,36,Clayey,34,0,0,Urea
+Cotton,30,14,62,Loamy,35,0,0,Urea
+Maize,30,13,43,Sandy,30,0,0,Urea
+Ground Nuts,29,60,38,Red,39,0,0,Urea
+Paddy,,74,41,Clayey,9,16,21,10-26-26
+Paddy,32,54,36,Clayey,40,0,0,Urea
+Ground Nuts,25,60,32,Red,37,0,0,Urea
+Paddy,,54,38,Clayey,11,19,19,10-26-26
+Paddy,28,37,49,Clayey,40,0,0,Urea
+Maize,33,64,51,Sandy,5,1,36,14-35-14
+Ground Nuts,26,87,36,Red,37,0,0,Urea
+Cotton,27,15,62,Loamy,32,0,0,Urea
+Paddy,29,36,43,Clayey,34,0,0,Urea
+Cotton,31,14,64,Loamy,37,0,0,Urea
+Ground Nuts,28,57,41,Red,37,0,0,Urea
+Cotton,32,19,64,Loamy,32,0,0,Urea
+Cotton,29,17,60,Loamy,35,0,0,Urea
+Maize,26,75,49,Sandy,4,11,32,14-35-14
+Ground Nuts,30,54,38,Red,39,0,0,Urea
+Paddy,,62,42,Clayey,9,16,19,10-26-26
+Paddy,29,77,43,Clayey,7,12,22,14-35-14
+Cotton,30,15,62,Loamy,31,0,0,Urea
+Cotton,29,58,65,Black,14,5,8,DAP
+Cotton,28,14,63,Loamy,31,0,0,Urea
+Paddy,,52,25,Clayey,6,19,20,10-26-26
+Paddy,,88,26,Clayey,11,16,18,10-26-26
+Paddy,26,78,43,Clayey,11,7,29,14-35-14
+Maize,26,29,41,Sandy,24,0,21,28-28
+Cotton,32,35,60,Black,6,8,34,14-35-14
+Maize,31,62,48,Sandy,14,2,38,17-17-17
+Paddy,,80,27,Clayey,10,17,17,10-26-26
+Paddy,,76,33,Clayey,5,15,21,10-26-26
+Cotton,28,19,60,Black,35,0,0,Urea
+Maize,30,15,43,Sandy,39,0,0,Urea
+Paddy,,68,36,Clayey,7,19,19,10-26-26
+Maize,30,17,43,Sandy,34,0,0,Urea
+Paddy,,74,34,Clayey,13,16,21,10-26-26
+Maize,30,14,36,Sandy,35,0,0,Urea
+Paddy,,62,30,Clayey,7,16,22,10-26-26
+Paddy,,85,34,Clayey,9,19,17,10-26-26
+Paddy,31,16,37,Clayey,25,4,18,28-28
+Ground Nuts,30,65,32,Red,34,0,0,Urea
+Paddy,,51,38,Clayey,9,15,21,10-26-26
+Paddy,,91,29,Clayey,6,18,22,10-26-26
+Paddy,,72,43,Clayey,10,17,20,10-26-26
+Paddy,,72,45,Clayey,9,15,19,10-26-26
+Cotton,25,23,58,Red,7,10,29,14-35-14
+Maize,28,10,32,Sandy,32,0,0,Urea
+Cotton,26,19,62,Loamy,31,0,0,Urea
+Cotton,32,11,62,Loamy,38,0,0,Urea
+Cotton,26,11,64,Loamy,30,0,0,Urea
+Cotton,30,18,63,Loamy,38,0,0,Urea
+Maize,31,18,34,Sandy,38,0,0,Urea
+Sugarcane,25,50,56,Loamy,11,1,39,17-17-17
+Cotton,31,12,60,Loamy,35,0,0,Urea
+Paddy,,53,35,Clayey,7,16,19,10-26-26
+Cotton,26,16,62,Loamy,30,0,0,Urea
+Maize,27,69,28,Sandy,10,8,33,14-35-14
+Cotton,26,13,62,Loamy,37,0,0,Urea
+Sugarcane,26,55,64,Loamy,8,6,40,14-35-14
+Cotton,31,11,62,Loamy,30,0,0,Urea
+Maize,30,18,41,Sandy,36,0,0,Urea
+Ground Nuts,30,47,40,Red,40,0,0,Urea
+Paddy,,69,44,Clayey,5,17,17,10-26-26
+Paddy,,68,31,Clayey,9,18,17,10-26-26
+Paddy,,70,35,Clayey,5,19,22,10-26-26
+Ground Nuts,25,65,32,Red,34,0,0,Urea
+Paddy,32,48,44,Clayey,23,1,22,28-28
+Paddy,,77,40,Clayey,11,15,21,10-26-26
+Paddy,,61,30,Clayey,7,17,20,10-26-26
+Ground Nuts,36,68,41,Red,41,0,30,Urea
+Maize,26,79,25,Sandy,6,11,25,14-35-14
+Paddy,27,45,37,Clayey,35,0,0,Urea
+Maize,26,16,38,Sandy,30,0,0,Urea
+Cotton,30,11,60,Loamy,38,0,0,Urea
+Maize,31,15,37,Sandy,35,0,0,Urea
+Ground Nuts,28,74,32,Red,38,0,0,Urea
+Cotton,31,61,62,Black,22,0,19,28-28
+Cotton,25,38,56,Red,9,9,31,14-35-14
+Paddy,26,76,48,Clayey,8,10,28,14-35-14
+Maize,28,15,43,Sandy,30,0,0,Urea
+Paddy,26,59,43,Clayey,13,18,19,10-26-26
+Paddy,,63,30,Clayey,7,15,20,10-26-26
+Ground Nuts,26,51,32,Red,40,0,0,Urea
+Sugarcane,29,52,45,Loamy,12,1,42,DAP
+Paddy,,84,29,Clayey,13,17,22,10-26-26
+Paddy,,54,32,Clayey,6,18,22,10-26-26
+Maize,30,10,37,Sandy,38,0,0,Urea
+Cotton,25,16,60,Loamy,30,0,0,Urea
+Paddy,,55,29,Clayey,11,18,17,10-26-26
+Cotton,29,11,60,Loamy,37,0,0,Urea
+Ground Nuts,29,45,41,Red,38,0,0,Urea
+Cotton,29,19,64,Black,32,0,0,Urea
+Cotton,26,18,64,Loamy,32,0,0,Urea
+Maize,29,11,40,Sandy,30,0,0,Urea
+Cotton,32,16,63,Loamy,33,0,0,Urea
+Paddy,,62,35,Clayey,13,16,18,10-26-26
+Ground Nuts,31,49,29,Red,34,0,0,Urea
+Cotton,29,10,64,Loamy,32,0,0,Urea
+Ground Nuts,25,51,30,Red,41,0,0,Urea
+Ground Nuts,31,58,39,Red,38,0,0,Urea
+Maize,30,29,49,Sandy,23,0,21,28-28
+Paddy,29,33,48,Clayey,35,0,0,Urea
+Ground Nuts,30,50,35,Red,41,0,0,Urea
+Cotton,30,60,61,Loamy,8,5,40,14-35-14
+Maize,28,10,35,Sandy,31,0,0,Urea
+Paddy,31,17,38,Clayey,24,0,20,28-28
+Cotton,31,13,63,Loamy,34,0,0,Urea
+Cotton,25,16,61,Loamy,37,0,0,Urea
+Paddy,30,89,31,Clayey,6,15,17,10-26-26
+Paddy,26,47,40,Clayey,34,0,0,Urea
+Paddy,30,83,33,Clayey,5,15,18,10-26-26
+Paddy,,68,31,Clayey,5,19,17,10-26-26
+Cotton,31,15,61,Loamy,32,0,0,Urea
+Paddy,,55,26,Clayey,7,16,17,10-26-26
+Cotton,28,15,64,Loamy,32,0,0,Urea
+Ground Nuts,27,42,40,Red,39,0,0,Urea
+Paddy,,69,30,Clayey,11,16,19,10-26-26
+Paddy,,77,43,Clayey,11,15,19,10-26-26
+Paddy,,82,30,Clayey,5,17,22,10-26-26
+Ground Nuts,27,60,29,Red,38,0,0,Urea
+Maize,28,14,34,Sandy,36,0,0,Urea
+Ground Nuts,30,82,33,Red,36,0,0,Urea
+Paddy,,72,27,Clayey,12,17,17,10-26-26
+Cotton,28,17,61,Loamy,37,0,0,Urea
+Paddy,26,80,45,Clayey,9,7,29,14-35-14
+Ground Nuts,32,43,29,Red,39,0,0,Urea
+Cotton,31,19,60,Loamy,33,0,0,Urea
+Paddy,27,84,37,Clayey,5,19,22,10-26-26
+Paddy,,86,29,Clayey,12,17,22,10-26-26
+Ground Nuts,25,82,33,Red,36,0,0,Urea
+Paddy,,68,39,Clayey,7,18,18,10-26-26
+Cotton,29,34,61,Loamy,9,8,31,14-35-14
+Cotton,29,23,61,Loamy,8,10,29,14-35-14
+Ground Nuts,27,45,36,Red,41,0,0,Urea
+Cotton,25,18,61,Loamy,33,0,0,Urea
+Cotton,30,16,64,Loamy,37,0,0,Urea
+Paddy,,61,30,Clayey,9,19,20,10-26-26
+Maize,32,16,39,Sandy,38,0,0,Urea
+Sugarcane,27,53,59,Loamy,10,4,41,20-20
+Ground Nuts,32,78,30,Red,36,0,0,Urea
+Maize,30,15,34,Sandy,38,0,0,Urea
+Paddy,,58,36,Clayey,11,18,17,10-26-26
+Paddy,,68,43,Clayey,13,16,21,10-26-26
+Paddy,,61,44,Clayey,12,19,22,10-26-26
+Maize,27,19,32,Sandy,30,0,0,Urea
+Maize,28,19,35,Sandy,34,0,0,Urea
+Maize,27,18,42,Sandy,37,0,0,Urea
+Maize,28,13,42,Sandy,37,0,0,Urea
+Paddy,,81,37,Clayey,8,19,20,10-26-26
+Paddy,30,80,44,Clayey,9,7,22,14-35-14
+Ground Nuts,25,48,34,Red,41,0,0,Urea
+Ground Nuts,29,47,37,Red,41,0,0,Urea
+Paddy,32,33,41,Clayey,23,0,22,28-28
+Cotton,31,18,61,Black,38,0,0,Urea
+Maize,32,19,37,Sandy,36,0,0,Urea
+Ground Nuts,27,58,31,Red,38,0,0,Urea
+Ground Nuts,25,48,34,Red,39,0,0,Urea
+Paddy,26,80,48,Clayey,11,10,27,14-35-14
+Paddy,31,32,42,Clayey,35,0,0,Urea
+Ground Nuts,30,48,37,Red,36,0,0,Urea
+Paddy,,54,39,Clayey,11,19,22,10-26-26
+Maize,30,60,42,Sandy,5,12,27,14-35-14
+Paddy,,64,28,Clayey,11,18,18,10-26-26
+Ground Nuts,27,57,30,Red,34,0,0,Urea
+Maize,27,16,41,Sandy,38,0,0,Urea
+Paddy,,62,45,Clayey,8,17,22,10-26-26
+Cotton,26,11,62,Loamy,33,0,0,Urea
+Cotton,30,19,64,Black,37,0,0,Urea
+Paddy,27,35,44,Clayey,34,0,0,Urea
+Cotton,30,14,62,Black,31,0,0,Urea
+Paddy,,53,31,Clayey,5,17,20,10-26-26
+Maize,31,51,44,Sandy,22,0,21,28-28
+Paddy,,66,39,Clayey,11,15,22,10-26-26
+Cotton,26,15,61,Black,31,0,0,Urea
+Maize,28,19,42,Sandy,30,0,0,Urea
+Paddy,27,79,41,Clayey,11,11,34,14-35-14
+Sugarcane,29,58,60,Loamy,8,7,36,14-35-14
+Paddy,,52,33,Clayey,13,16,22,10-26-26
+Ground Nuts,31,46,32,Red,39,0,0,Urea
+Paddy,26,34,39,Clayey,21,0,21,28-28
+Ground Nuts,28,44,32,Red,41,0,0,Urea
+Maize,26,10,43,Sandy,35,0,0,Urea
+Sugarcane,32,53,64,Loamy,8,8,35,14-35-14
+Paddy,,84,43,Clayey,12,18,18,10-26-26
+Paddy,,62,41,Clayey,7,17,17,10-26-26
+Cotton,29,12,62,Black,39,0,0,Urea
+Paddy,,67,43,Clayey,6,18,17,10-26-26
+Paddy,,52,35,Clayey,8,18,22,10-26-26
+Paddy,,84,31,Clayey,6,17,20,10-26-26
+Paddy,,83,25,Clayey,12,18,18,10-26-26
+Paddy,,56,42,Clayey,10,19,22,10-26-26
+Wheat,34,65,48,Loamy,23,4,42,28-28
+Paddy,,86,37,Clayey,6,18,18,10-26-26
+Paddy,,63,37,Clayey,13,16,22,10-26-26
+Maize,30,15,42,Sandy,38,0,0,Urea
+Ground Nuts,29,49,38,Red,39,0,0,Urea
+Ground Nuts,33,64,31,Red,13,4,36,DAP
+Ground Nuts,31,47,37,Red,37,0,0,Urea
+Cotton,29,13,62,Loamy,33,0,0,Urea
+Paddy,32,57,49,Clayey,34,0,0,Urea
+Maize,25,15,32,Sandy,34,0,0,Urea
+Paddy,29,73,46,Clayey,9,8,29,14-35-14
+Ground Nuts,27,54,41,Red,34,0,0,Urea
+Ground Nuts,31,50,38,Red,39,0,0,Urea
+Ground Nuts,28,57,29,Red,39,0,0,Urea
+Ground Nuts,29,73,37,Red,37,0,0,Urea
+Paddy,27,52,48,Clayey,34,0,0,Urea
+Cotton,29,16,60,Loamy,30,0,0,Urea
+Maize,29,18,36,Sandy,32,0,0,Urea
+Paddy,,56,43,Clayey,13,17,20,10-26-26
+Cotton,29,10,62,Loamy,39,0,0,Urea
+Sugarcane,32,43,55,Loamy,10,8,36,14-35-14
+Paddy,,78,41,Clayey,8,19,22,10-26-26
+Wheat,26,52,48,Loamy,23,4,35,28-28
+Ground Nuts,29,44,30,Red,38,0,0,Urea
+Paddy,,61,45,Clayey,12,19,20,10-26-26
+Cotton,28,18,63,Loamy,36,0,0,Urea
+Cotton,30,63,62,Black,24,0,20,28-28
+Cotton,31,18,62,Loamy,33,0,0,Urea
+Paddy,26,50,41,Clayey,9,15,19,10-26-26
+Paddy,30,79,32,Clayey,10,18,19,10-26-26
+Paddy,28,80,43,Clayey,10,8,29,14-35-14
+Ground Nuts,29,87,36,Red,37,0,0,Urea
+Maize,31,13,41,Sandy,34,0,0,Urea
+Cotton,30,61,62,Black,23,0,19,28-28
+Paddy,,70,27,Clayey,12,18,20,10-26-26
+Cotton,26,15,64,Black,33,0,0,Urea
+Cotton,27,11,63,Loamy,30,0,0,Urea
+Paddy,,57,34,Clayey,8,17,20,10-26-26
+Ground Nuts,28,45,30,Red,38,0,0,Urea
+Paddy,,60,37,Clayey,8,18,19,10-26-26
+Paddy,26,18,44,Clayey,24,0,18,28-28
+Paddy,,62,29,Clayey,8,17,17,10-26-26
+Paddy,,55,27,Clayey,10,18,19,10-26-26
+Paddy,,65,35,Clayey,8,18,20,10-26-26
+Paddy,32,89,38,Clayey,11,15,17,10-26-26
+Ground Nuts,26,48,36,Red,38,0,0,Urea
+Paddy,,63,34,Clayey,7,18,17,10-26-26
+Cotton,25,11,64,Loamy,33,0,0,Urea
+Maize,29,10,42,Sandy,32,0,0,Urea
+Paddy,,76,26,Clayey,8,15,22,10-26-26
+Paddy,,61,38,Clayey,7,16,19,10-26-26
+Maize,30,10,38,Sandy,30,0,0,Urea
+Ground Nuts,27,60,38,Red,40,0,0,Urea
+Paddy,,72,27,Clayey,7,17,21,10-26-26
+Paddy,27,78,48,Clayey,11,11,22,14-35-14
+Ground Nuts,28,43,39,Red,36,0,0,Urea
+Ground Nuts,28,47,39,Red,38,0,0,Urea
+Cotton,30,13,63,Loamy,31,0,0,Urea
+Paddy,,82,45,Clayey,10,16,17,10-26-26
+Cotton,26,14,62,Loamy,35,0,0,Urea
+Paddy,,53,44,Clayey,5,17,17,10-26-26
+Cotton,27,15,60,Loamy,33,0,0,Urea
+Ground Nuts,30,92,41,Red,41,0,0,Urea
+Ground Nuts,25,88,39,Red,38,0,0,Urea
+Maize,25,54,50,Sandy,8,9,26,14-35-14
+Wheat,38,72,51,Loamy,39,4,11,Urea
+Maize,27,14,34,Sandy,31,0,0,Urea
+Maize,28,51,42,Sandy,5,8,30,14-35-14
+Paddy,,67,43,Clayey,5,15,22,10-26-26
+Ground Nuts,29,43,32,Red,37,0,0,Urea
+Paddy,,74,40,Clayey,7,15,19,10-26-26
+Cotton,28,61,64,Black,24,0,18,28-28
+Paddy,,81,30,Clayey,10,15,19,10-26-26
+Paddy,,61,36,Clayey,6,17,18,10-26-26
+Cotton,30,18,64,Loamy,33,0,0,Urea
+Ground Nuts,30,53,35,Red,39,0,0,Urea
+Cotton,31,15,60,Loamy,34,0,0,Urea
+Paddy,,64,39,Clayey,7,15,17,10-26-26
+Cotton,26,10,62,Loamy,39,0,0,Urea
+Maize,25,18,40,Sandy,36,0,0,Urea
+Paddy,,76,37,Clayey,12,19,19,10-26-26
+Paddy,,86,32,Clayey,6,18,17,10-26-26
+Maize,31,14,32,Sandy,31,0,0,Urea
+Ground Nuts,27,42,31,Red,41,0,0,Urea
+Cotton,30,18,61,Loamy,39,0,0,Urea
+Maize,29,10,34,Sandy,35,0,0,Urea
+Maize,26,12,41,Sandy,39,0,0,Urea
+Cotton,29,13,62,Loamy,30,0,0,Urea
+Cotton,29,15,62,Loamy,32,0,0,Urea
+Maize,26,52,38,Sandy,37,2,5,Urea
+Paddy,26,84,40,Clayey,6,8,20,14-35-14
+Paddy,,60,34,Clayey,8,17,18,10-26-26
+Maize,31,15,37,Sandy,36,0,0,Urea
+Cotton,25,19,60,Loamy,31,0,0,Urea
+Paddy,,88,28,Clayey,10,15,20,10-26-26
+Ground Nuts,28,58,36,Red,40,0,0,Urea
+Maize,32,13,34,Sandy,37,0,0,Urea
+Cotton,31,61,64,Black,22,0,20,28-28
+Paddy,,70,35,Clayey,11,15,22,10-26-26
+Ground Nuts,26,52,31,Red,34,0,0,Urea
+Ground Nuts,25,45,39,Red,36,0,0,Urea
+Paddy,,85,45,Clayey,12,15,17,10-26-26
+Paddy,,86,35,Clayey,10,18,17,10-26-26
+Cotton,32,11,60,Loamy,32,0,0,Urea
+Paddy,26,60,34,Clayey,8,19,20,10-26-26
+Paddy,,73,34,Clayey,12,16,19,10-26-26
+Paddy,31,22,35,Clayey,24,0,22,28-28
+Cotton,28,15,63,Black,34,0,0,Urea
+Paddy,25,52,44,Clayey,12,15,18,10-26-26
+Maize,29,16,41,Sandy,39,0,0,Urea
+Ground Nuts,30,56,34,Red,40,0,0,Urea
+Paddy,,85,35,Clayey,5,18,22,10-26-26
+Maize,32,71,48,Sandy,22,0,18,28-28
+Ground Nuts,32,54,38,Red,39,0,0,Urea
+Cotton,30,13,62,Loamy,36,0,0,Urea
+Cotton,25,10,62,Loamy,32,0,0,Urea
+Paddy,,56,40,Clayey,5,18,18,10-26-26
+Paddy,,59,35,Clayey,7,16,19,10-26-26
+Ground Nuts,29,73,32,Red,36,0,0,Urea
+Ground Nuts,30,48,41,Red,40,0,0,Urea
+Ground Nuts,29,67,38,Red,35,0,0,Urea
+Maize,29,16,36,Sandy,34,0,0,Urea
+Paddy,25,71,49,Clayey,6,11,33,14-35-14
+Cotton,32,28,56,Loamy,8,11,30,14-35-14
+Paddy,,52,35,Clayey,13,19,18,10-26-26
+Ground Nuts,27,59,30,Red,37,0,0,Urea
+Paddy,29,91,45,Clayey,6,19,21,10-26-26
+Paddy,,67,39,Clayey,8,17,17,10-26-26
+Paddy,,86,27,Clayey,11,18,21,10-26-26
+Maize,30,14,43,Sandy,37,0,0,Urea
+Cotton,25,15,60,Loamy,39,0,0,Urea
+Paddy,28,62,27,Clayey,11,18,19,10-26-26
+Ground Nuts,31,60,38,Red,40,0,0,Urea
+Ground Nuts,30,60,29,Red,41,1,38,Urea
+Paddy,,85,33,Clayey,7,15,19,10-26-26
+Maize,31,19,35,Sandy,34,0,0,Urea
+Cotton,30,13,63,Loamy,35,0,0,Urea
+Paddy,,76,41,Clayey,5,17,18,10-26-26
+Paddy,,78,34,Clayey,7,15,17,10-26-26
+Cotton,26,12,64,Loamy,33,0,0,Urea
+Paddy,,58,42,Clayey,12,15,17,10-26-26
+Paddy,28,54,41,Clayey,36,3,38,Urea
+Paddy,,73,43,Clayey,9,16,18,10-26-26
+Maize,31,14,42,Sandy,34,0,0,Urea
+Maize,25,19,36,Sandy,35,0,0,Urea
+Paddy,28,54,43,Clayey,10,0,17,14-35-14
+Cotton,28,17,62,Loamy,34,0,0,Urea
+Cotton,26,14,61,Loamy,35,0,0,Urea
+Maize,26,68,54,Sandy,8,8,26,14-35-14
+Wheat,30,60,49,Loamy,13,1,37,20-20
+Maize,30,15,43,Sandy,30,0,0,Urea
+Ground Nuts,32,56,37,Red,38,0,0,Urea
+Ground Nuts,32,60,32,Red,37,0,0,Urea
+Cotton,26,63,63,Black,22,0,21,28-28
+Paddy,,62,37,Clayey,12,19,21,10-26-26
+Cotton,32,15,64,Loamy,38,0,0,Urea
+Maize,25,16,43,Sandy,37,0,0,Urea
+Paddy,,83,43,Clayey,10,16,17,10-26-26
+Sugarcane,29,51,56,Loamy,8,9,34,14-35-14
+Cotton,30,11,61,Loamy,36,0,0,Urea
+Cotton,26,29,60,Black,8,11,34,14-35-14
+Paddy,,52,26,Clayey,10,16,17,10-26-26
+Paddy,,85,28,Clayey,13,15,19,10-26-26
+Cotton,31,17,60,Loamy,36,0,0,Urea
+Ground Nuts,31,44,39,Red,37,0,0,Urea
+Cotton,26,13,64,Loamy,36,0,0,Urea
+Cotton,32,10,62,Loamy,30,0,0,Urea
+Cotton,26,11,64,Black,30,0,0,Urea
+Cotton,28,15,64,Black,33,0,0,Urea
+Paddy,,69,39,Clayey,12,18,22,10-26-26
+Maize,29,89,27,Sandy,5,7,31,14-35-14
+Maize,29,19,39,Sandy,31,0,0,Urea
+Cotton,26,15,61,Loamy,30,0,0,Urea
+Maize,32,12,35,Sandy,32,0,0,Urea
+Paddy,,76,28,Clayey,13,17,17,10-26-26
+Paddy,,59,35,Clayey,9,16,17,10-26-26
+Cotton,31,11,64,Loamy,39,0,0,Urea
+Ground Nuts,32,55,40,Red,35,0,0,Urea
+Ground Nuts,25,55,33,Red,40,0,0,Urea
+Paddy,,88,40,Clayey,11,17,20,10-26-26
+Maize,29,25,44,Sandy,23,0,20,28-28
+Paddy,,91,32,Clayey,7,19,19,10-26-26
+Cotton,29,15,64,Loamy,37,0,0,Urea
+Cotton,31,19,60,Loamy,32,0,0,Urea
+Cotton,32,13,62,Loamy,30,0,0,Urea
+Cotton,27,39,57,Loamy,9,11,34,14-35-14
+Cotton,31,17,62,Loamy,37,0,0,Urea
+Cotton,28,15,64,Loamy,32,0,0,Urea
+Paddy,,66,35,Clayey,9,18,18,10-26-26
+Paddy,,52,44,Clayey,6,19,22,10-26-26
+Ground Nuts,30,42,36,Red,39,0,0,Urea
+Cotton,29,16,61,Loamy,38,0,0,Urea
+Ground Nuts,25,50,26,Red,15,1,43,17-17-17
+Paddy,,81,36,Clayey,8,18,20,10-26-26
+Cotton,27,12,64,Loamy,30,0,0,Urea
+Wheat,38,70,48,Loamy,8,1,35,14-35-14
+Sugarcane,28,45,55,Loamy,7,9,41,14-35-14
+Paddy,,69,28,Clayey,10,19,20,10-26-26
+Ground Nuts,27,49,41,Red,40,0,0,Urea
+Maize,26,11,33,Sandy,31,0,0,Urea
+Paddy,37,70,37,Clayey,12,3,43,DAP
+Sugarcane,28,42,61,Loamy,8,5,39,14-35-14
+Maize,26,17,37,Sandy,37,0,0,Urea
+Cotton,31,37,57,Loamy,9,11,28,14-35-14
+Cotton,28,17,63,Loamy,30,0,0,Urea
+Ground Nuts,27,44,32,Red,34,0,0,Urea
+Paddy,,67,34,Clayey,12,15,17,10-26-26
+Maize,32,76,35,Sandy,7,7,29,14-35-14
+Maize,27,64,41,Sandy,24,0,21,28-28
+Paddy,,55,37,Clayey,7,19,18,10-26-26
+Maize,25,16,41,Sandy,30,0,0,Urea
+Cotton,26,19,61,Loamy,30,0,0,Urea
+Paddy,,50,41,Clayey,10,17,22,10-26-26
+Cotton,28,17,63,Black,33,0,0,Urea
+Paddy,,67,45,Clayey,9,16,22,10-26-26
+Ground Nuts,31,47,29,Red,36,0,0,Urea
+Cotton,29,11,61,Loamy,32,0,0,Urea
+Cotton,31,11,61,Loamy,39,0,0,Urea
+Paddy,,79,35,Clayey,9,19,21,10-26-26
+Maize,28,12,38,Sandy,38,0,0,Urea
+Maize,26,27,41,Sandy,22,0,21,28-28
+Ground Nuts,27,47,31,Red,39,0,0,Urea
+Cotton,26,19,62,Loamy,35,0,0,Urea
+Maize,32,10,38,Sandy,31,0,0,Urea
+Paddy,,85,32,Clayey,7,15,19,10-26-26
+Paddy,,76,36,Clayey,9,17,18,10-26-26
+Cotton,27,13,62,Loamy,36,0,0,Urea
+Paddy,,85,37,Clayey,6,16,21,10-26-26
+Cotton,25,16,63,Loamy,34,0,0,Urea
+Maize,32,14,33,Sandy,39,0,0,Urea
+Ground Nuts,29,77,39,Red,39,0,0,Urea
+Cotton,27,33,60,Loamy,10,11,31,14-35-14
+Paddy,,65,40,Clayey,7,17,21,10-26-26
+Ground Nuts,29,87,32,Red,38,0,0,Urea
+Cotton,29,14,62,Black,31,0,0,Urea
+Paddy,,70,44,Clayey,8,18,17,10-26-26
+Paddy,,66,44,Clayey,5,15,18,10-26-26
+Cotton,32,15,60,Loamy,39,0,0,Urea
+Cotton,32,12,60,Loamy,39,0,0,Urea
+Paddy,,77,30,Clayey,6,18,20,10-26-26
+Cotton,25,11,63,Loamy,33,0,0,Urea
+Cotton,28,36,56,Loamy,6,9,30,14-35-14
+Paddy,28,59,48,Clayey,39,0,0,Urea
+Cotton,30,16,62,Loamy,38,0,0,Urea
+Paddy,,56,31,Clayey,11,15,20,10-26-26
+Cotton,27,15,60,Loamy,36,0,0,Urea
+Cotton,31,17,62,Loamy,32,0,0,Urea
+Paddy,,75,38,Clayey,11,19,18,10-26-26
+Cotton,30,13,63,Loamy,38,0,0,Urea
+Cotton,29,19,63,Loamy,31,0,0,Urea
+Ground Nuts,26,54,41,Red,36,0,0,Urea
+Ground Nuts,30,88,36,Red,38,0,0,Urea
+Ground Nuts,32,53,39,Red,34,0,0,Urea
+Paddy,,83,27,Clayey,5,17,22,10-26-26
+Cotton,28,34,63,Loamy,7,11,34,14-35-14
+Paddy,,86,27,Clayey,9,19,19,10-26-26
+Paddy,,52,33,Clayey,13,19,17,10-26-26
+Paddy,,62,39,Clayey,8,15,22,10-26-26
+Ground Nuts,28,51,34,Red,40,0,0,Urea
+Ground Nuts,31,29,39,Red,23,0,24,28-28
+Sugarcane,27,64,63,Loamy,9,8,38,14-35-14
+Paddy,,79,38,Clayey,10,15,21,10-26-26
+Ground Nuts,27,48,38,Red,36,0,0,Urea
+Ground Nuts,25,55,41,Red,38,0,0,Urea
+Maize,32,69,53,Sandy,9,10,34,14-35-14
+Paddy,,71,31,Clayey,6,17,17,10-26-26
+Maize,28,16,42,Sandy,36,0,0,Urea
+Paddy,,50,25,Clayey,7,15,21,10-26-26
+Maize,30,17,36,Sandy,33,0,0,Urea
+Cotton,29,14,63,Loamy,34,0,0,Urea
+Cotton,32,13,62,Loamy,31,0,0,Urea
+Cotton,31,28,61,Loamy,9,11,30,14-35-14
+Paddy,,91,35,Clayey,10,17,20,10-26-26
+Ground Nuts,29,30,39,Red,22,0,22,28-28
+Maize,31,64,48,Sandy,22,0,21,28-28
+Cotton,27,18,62,Loamy,38,0,0,Urea
+Ground Nuts,32,52,35,Red,41,0,0,Urea
+Paddy,27,82,46,Clayey,9,11,29,14-35-14
+Ground Nuts,31,82,37,Red,39,0,0,Urea
+Ground Nuts,31,48,29,Red,41,0,0,Urea
+Ground Nuts,30,56,31,Red,37,0,0,Urea
+Paddy,,75,38,Clayey,11,16,17,10-26-26
+Paddy,29,47,40,Clayey,25,0,18,28-28
+Ground Nuts,26,54,39,Red,40,0,0,Urea
+Ground Nuts,25,55,29,Red,36,0,0,Urea
+Paddy,,51,30,Clayey,11,17,19,10-26-26
+Maize,32,71,25,Sandy,5,9,34,14-35-14
+Cotton,26,11,64,Loamy,37,0,0,Urea
+Cotton,31,17,60,Loamy,39,0,0,Urea
+Maize,31,81,42,Sandy,4,9,27,14-35-14
+Paddy,,69,28,Clayey,6,17,19,10-26-26
+Cotton,28,12,61,Loamy,30,0,0,Urea
+Paddy,,77,28,Clayey,5,18,17,10-26-26
+Sugarcane,31,62,49,Black,10,0,37,17-17-17
+Cotton,29,18,61,Loamy,33,0,0,Urea
+Paddy,,52,32,Clayey,11,18,17,10-26-26
+Ground Nuts,26,56,38,Red,39,0,0,Urea
+Cotton,27,24,60,Red,10,11,26,14-35-14
+Cotton,34,65,64,Black,24,3,36,28-28
+Maize,30,15,36,Sandy,36,0,0,Urea
+Maize,25,15,40,Sandy,31,0,0,Urea
+Paddy,,63,43,Clayey,13,16,18,10-26-26
+Paddy,,62,34,Clayey,5,19,21,10-26-26
+Paddy,34,65,38,Clayey,39,5,42,Urea
+Ground Nuts,31,52,31,Red,34,0,0,Urea
+Maize,28,14,33,Sandy,38,0,0,Urea
+Paddy,25,47,43,Clayey,24,0,18,28-28
+Paddy,29,53,44,Clayey,38,0,0,Urea
+Maize,32,12,34,Sandy,39,0,0,Urea
+Cotton,29,18,64,Loamy,38,0,0,Urea
+Paddy,,53,27,Clayey,6,18,22,10-26-26
+Ground Nuts,27,42,38,Red,39,0,0,Urea
+Cotton,32,12,61,Black,33,0,0,Urea
+Maize,29,14,38,Sandy,36,0,0,Urea
+Cotton,34,65,63,Red,14,1,43,DAP
+Maize,28,16,40,Sandy,35,0,0,Urea
+Paddy,,77,26,Clayey,13,18,20,10-26-26
+Paddy,,61,27,Clayey,13,15,17,10-26-26
+Paddy,,55,45,Clayey,5,17,19,10-26-26
+Ground Nuts,29,30,40,Red,24,0,23,28-28
+Maize,28,11,36,Sandy,32,0,0,Urea
+Paddy,,78,37,Clayey,9,15,18,10-26-26
+Ground Nuts,27,55,33,Red,37,0,0,Urea
+Sugarcane,26,52,59,Loamy,11,1,25,20-20
+Cotton,25,15,62,Loamy,34,0,0,Urea
+Paddy,,91,30,Clayey,5,17,21,10-26-26
+Paddy,,57,42,Clayey,5,15,18,10-26-26
+Cotton,27,15,61,Black,31,0,0,Urea
+Ground Nuts,28,50,36,Red,34,0,0,Urea
+Maize,27,14,41,Sandy,31,0,0,Urea
+Cotton,30,15,61,Black,30,0,0,Urea
+Paddy,,87,27,Clayey,6,15,22,10-26-26
+Ground Nuts,32,60,32,Red,40,0,0,Urea
+Cotton,25,63,64,Black,23,0,20,28-28
+Sugarcane,32,62,30,Loamy,38,2,36,Urea
+Ground Nuts,32,74,32,Red,38,0,0,Urea
+Paddy,,88,39,Clayey,12,18,17,10-26-26
+Paddy,,63,29,Clayey,7,19,19,10-26-26
+Maize,28,12,38,Sandy,33,0,0,Urea
+Maize,25,19,32,Sandy,30,0,0,Urea
+Paddy,,62,44,Clayey,8,18,18,10-26-26
+Ground Nuts,31,88,36,Red,38,0,0,Urea
+Ground Nuts,28,60,37,Red,40,0,0,Urea
+Maize,32,41,46,Sandy,21,0,21,28-28
+Ground Nuts,28,51,32,Red,38,0,0,Urea
+Paddy,,53,27,Clayey,8,16,17,10-26-26
+Paddy,,56,35,Clayey,5,17,17,10-26-26
+Cotton,25,25,56,Loamy,10,9,26,14-35-14
+Cotton,29,58,61,Loamy,11,0,40,DAP
+Maize,32,43,44,Sandy,23,0,20,28-28
+Cotton,28,16,61,Loamy,30,0,0,Urea
+Cotton,32,34,60,Loamy,8,11,25,14-35-14
+Paddy,,88,40,Clayey,6,15,18,10-26-26
+Cotton,30,11,64,Black,30,0,0,Urea
+Cotton,26,10,64,Loamy,33,0,0,Urea
+Paddy,,69,44,Clayey,7,15,22,10-26-26
+Paddy,,85,32,Clayey,7,16,18,10-26-26
+Paddy,29,58,42,Clayey,9,0,39,14-35-14
+Maize,32,11,35,Sandy,38,0,0,Urea
+Maize,30,12,39,Sandy,39,0,0,Urea
+Paddy,28,83,46,Clayey,9,11,21,14-35-14
+Ground Nuts,26,49,38,Red,41,0,0,Urea
+Cotton,32,62,62,Black,22,0,21,28-28
+Paddy,,58,43,Clayey,9,19,17,10-26-26
+Paddy,28,83,47,Clayey,8,8,22,14-35-14
+Ground Nuts,27,57,37,Red,34,0,0,Urea
+Paddy,,86,34,Clayey,9,17,20,10-26-26
+Paddy,31,54,43,Clayey,40,0,0,Urea
+Ground Nuts,29,54,36,Red,39,0,0,Urea
+Paddy,28,54,46,Clayey,35,3,37,Urea
+Paddy,,72,27,Clayey,7,19,22,10-26-26
+Cotton,29,18,62,Loamy,34,0,0,Urea
+Cotton,31,19,60,Black,35,0,0,Urea
+Sugarcane,34,65,57,Black,9,3,44,20-20
+Ground Nuts,32,43,36,Red,39,0,0,Urea
+Paddy,,54,27,Clayey,5,17,19,10-26-26
+Ground Nuts,25,48,39,Red,39,0,0,Urea
+Paddy,,53,41,Clayey,13,19,17,10-26-26
+Maize,29,70,46,Sandy,20,0,20,28-28
+Cotton,32,15,64,Loamy,37,0,0,Urea
+Ground Nuts,29,65,39,Red,38,0,0,Urea
+Paddy,,75,27,Clayey,10,18,18,10-26-26
+Paddy,,86,31,Clayey,7,16,20,10-26-26
+Paddy,,71,33,Clayey,5,17,19,10-26-26
+Ground Nuts,28,58,39,Red,38,0,0,Urea
+Paddy,32,75,47,Clayey,8,8,24,14-35-14
+Paddy,,71,30,Clayey,12,17,18,10-26-26
+Sugarcane,30,60,27,Loamy,12,0,37,DAP
+Cotton,26,18,64,Loamy,35,0,0,Urea
+Paddy,,73,25,Clayey,13,16,20,10-26-26
+Cotton,30,14,61,Loamy,30,0,0,Urea
+Paddy,,80,37,Clayey,11,17,21,10-26-26
+Maize,29,13,43,Sandy,37,0,0,Urea
+Paddy,,70,32,Clayey,7,17,22,10-26-26
+Ground Nuts,30,28,41,Red,24,0,24,28-28
+Ground Nuts,25,50,40,Red,41,0,0,Urea
+Ground Nuts,26,56,34,Red,36,0,0,Urea
+Sugarcane,32,50,62,Loamy,7,7,40,14-35-14
+Cotton,28,11,62,Loamy,31,0,0,Urea
+Cotton,30,24,64,Black,9,9,32,14-35-14
+Ground Nuts,30,52,40,Red,35,0,0,Urea
+Ground Nuts,28,56,38,Red,37,0,0,Urea
+Maize,30,49,51,Sandy,5,9,29,14-35-14
+Paddy,,62,33,Clayey,10,15,19,10-26-26
+Paddy,,90,26,Clayey,5,19,17,10-26-26
+Ground Nuts,26,43,36,Red,34,0,0,Urea
+Paddy,28,78,46,Clayey,10,7,34,14-35-14
+Cotton,30,62,62,Black,22,0,21,28-28
+Cotton,29,18,63,Loamy,32,0,0,Urea
+Paddy,,72,38,Clayey,12,16,17,10-26-26
+Ground Nuts,25,73,32,Red,36,0,0,Urea
+Paddy,29,58,43,Clayey,24,5,40,28-28
+Ground Nuts,27,53,34,Red,34,0,0,Urea
+Paddy,29,35,36,Clayey,38,0,0,Urea
+Ground Nuts,32,54,40,Red,41,0,0,Urea
+Cotton,31,17,61,Loamy,34,0,0,Urea
+Maize,31,13,36,Sandy,33,0,0,Urea
+Cotton,30,14,61,Loamy,39,0,0,Urea
+Cotton,29,16,63,Loamy,31,0,0,Urea
+Ground Nuts,27,54,38,Red,34,0,0,Urea
+Maize,26,67,41,Sandy,23,0,21,28-28
+Maize,32,11,35,Sandy,32,0,0,Urea
+Cotton,30,60,63,Red,9,2,43,14-35-14
+Paddy,29,40,40,Clayey,38,0,0,Urea
+Ground Nuts,26,55,30,Red,41,0,0,Urea
+Ground Nuts,28,62,31,Red,34,0,0,Urea
+Paddy,,66,34,Clayey,13,15,19,10-26-26
+Sugarcane,31,67,50,Loamy,8,6,35,14-35-14
+Ground Nuts,25,56,37,Red,39,0,0,Urea
+Paddy,28,74,43,Clayey,5,9,21,14-35-14
+Paddy,,65,32,Clayey,11,19,20,10-26-26
+Maize,26,18,35,Sandy,37,0,0,Urea
+Maize,29,18,44,Sandy,33,0,0,Urea
+Paddy,,89,32,Clayey,6,16,17,10-26-26
+Wheat,34,65,54,Loamy,38,3,38,Urea
+Ground Nuts,29,45,31,Red,37,0,0,Urea
+Cotton,25,10,60,Loamy,30,0,0,Urea
+Cotton,29,60,64,Black,23,0,19,28-28
+Cotton,25,17,63,Black,33,0,0,Urea
+Maize,32,15,40,Sandy,36,0,0,Urea
+Ground Nuts,32,42,38,Red,39,0,0,Urea
+Sugarcane,27,60,64,Loamy,10,9,34,14-35-14
+Paddy,,56,34,Clayey,7,15,19,10-26-26
+Ground Nuts,32,60,37,Red,40,0,0,Urea
+Paddy,,69,30,Clayey,8,16,21,10-26-26
+Maize,28,14,35,Sandy,30,0,0,Urea
+Paddy,,85,41,Clayey,10,19,17,10-26-26
+Cotton,28,17,60,Loamy,32,0,0,Urea
+Paddy,,67,34,Clayey,13,17,21,10-26-26
+Cotton,28,12,61,Loamy,37,0,0,Urea
+Ground Nuts,30,52,33,Red,35,0,0,Urea
+Paddy,,74,37,Clayey,8,17,22,10-26-26
+Ground Nuts,25,52,36,Red,38,0,0,Urea
+Paddy,,82,41,Clayey,11,16,19,10-26-26
+Ground Nuts,32,50,34,Red,39,0,0,Urea
+Paddy,,84,45,Clayey,11,15,22,10-26-26
+Paddy,,68,34,Clayey,5,16,18,10-26-26
+Paddy,,84,36,Clayey,10,17,19,10-26-26
+Paddy,,83,36,Clayey,12,15,21,10-26-26
+Sugarcane,30,60,58,Loamy,10,3,35,14-35-14
+Paddy,,78,34,Clayey,5,16,18,10-26-26
+Cotton,30,15,64,Loamy,30,0,0,Urea
+Paddy,,76,29,Clayey,9,15,19,10-26-26
+Paddy,28,74,43,Clayey,7,9,26,14-35-14
+Paddy,,78,44,Clayey,5,18,21,10-26-26
+Paddy,,52,37,Clayey,12,15,20,10-26-26
+Ground Nuts,25,56,35,Red,37,0,0,Urea
+Cotton,27,17,61,Loamy,38,0,0,Urea
+Cotton,26,10,61,Loamy,38,0,0,Urea
+Ground Nuts,32,54,31,Red,36,0,0,Urea
+Ground Nuts,29,44,32,Red,35,0,0,Urea
+Paddy,,86,44,Clayey,9,16,17,10-26-26
+Paddy,,65,40,Clayey,7,15,21,10-26-26
+Paddy,,51,38,Clayey,11,16,17,10-26-26
+Cotton,30,17,62,Loamy,38,0,0,Urea
+Paddy,,75,45,Clayey,10,19,20,10-26-26
+Paddy,,78,31,Clayey,7,18,20,10-26-26
+Cotton,26,14,62,Loamy,32,0,0,Urea
+Paddy,,69,44,Clayey,11,17,21,10-26-26
+Cotton,32,63,63,Black,22,0,18,28-28
+Cotton,27,18,64,Loamy,36,0,0,Urea
+Ground Nuts,28,80,35,Red,40,0,0,Urea
+Maize,32,10,38,Sandy,37,0,0,Urea
+Cotton,30,12,61,Black,33,0,0,Urea
+Wheat,36,68,50,Loamy,12,4,11,10-26-26
+Paddy,31,64,41,Clayey,11,19,22,10-26-26
+Cotton,32,22,63,Black,7,8,26,14-35-14
+Cotton,31,11,63,Loamy,33,0,0,Urea
+Paddy,,76,31,Clayey,9,17,19,10-26-26
+Maize,32,13,44,Sandy,35,0,0,Urea
+Ground Nuts,25,56,34,Red,36,0,0,Urea
+Paddy,,57,42,Clayey,6,15,20,10-26-26
+Maize,31,18,39,Sandy,31,0,0,Urea
+Cotton,30,15,61,Black,30,0,0,Urea
+Cotton,32,10,60,Loamy,33,0,0,Urea
+Maize,32,18,35,Sandy,31,0,0,Urea
+Ground Nuts,32,42,41,Red,39,0,0,Urea
+Cotton,30,17,61,Loamy,38,0,0,Urea
+Cotton,28,15,60,Loamy,32,0,0,Urea
+Ground Nuts,26,80,35,Red,40,0,0,Urea
+Cotton,30,10,63,Black,34,0,0,Urea
+Cotton,28,10,63,Loamy,37,0,0,Urea
+Paddy,26,61,28,Clayey,10,18,18,10-26-26
+Ground Nuts,29,82,37,Red,39,0,0,Urea
+Ground Nuts,30,54,29,Red,34,0,0,Urea
+Paddy,27,59,41,Clayey,38,0,0,Urea
+Maize,27,58,37,Sandy,8,12,30,14-35-14
+Paddy,32,70,46,Clayey,5,11,24,14-35-14
+Sugarcane,26,68,57,Loamy,9,8,39,14-35-14
+Paddy,,52,28,Clayey,13,19,21,10-26-26
+Maize,25,75,49,Sandy,22,0,21,28-28
+Paddy,,74,26,Clayey,10,15,19,10-26-26
+Cotton,26,19,64,Loamy,34,0,0,Urea
+Cotton,25,10,63,Black,34,0,0,Urea
+Paddy,30,65,34,Clayey,10,18,19,10-26-26
+Paddy,,50,40,Clayey,7,17,22,10-26-26
+Wheat,33,64,50,Loamy,41,2,39,Urea
+Ground Nuts,29,28,40,Red,23,0,22,28-28
+Ground Nuts,27,45,34,Red,36,0,0,Urea
+Paddy,,54,40,Clayey,12,16,20,10-26-26
+Paddy,,88,28,Clayey,8,18,19,10-26-26
+Paddy,27,78,47,Clayey,5,12,24,14-35-14
+Paddy,,70,26,Clayey,8,19,20,10-26-26
+Sugarcane,32,57,60,Loamy,8,8,33,14-35-14
+Ground Nuts,30,57,32,Red,36,0,0,Urea
+Sugarcane,32,45,59,Loamy,8,9,36,14-35-14
+Paddy,,54,31,Clayey,13,17,18,10-26-26
+Paddy,,75,31,Clayey,10,15,18,10-26-26
+Paddy,,57,37,Clayey,7,16,17,10-26-26
+Maize,30,60,47,Sandy,22,2,43,28-28
+Ground Nuts,30,47,38,Red,37,0,0,Urea
+Paddy,,62,30,Clayey,7,18,20,10-26-26
+Cotton,25,18,63,Loamy,33,0,0,Urea
+Paddy,28,53,47,Clayey,34,0,0,Urea
+Paddy,26,81,32,Clayey,6,16,20,10-26-26
+Paddy,,52,36,Clayey,12,16,21,10-26-26
+Paddy,,68,38,Clayey,13,19,20,10-26-26
+Paddy,,69,35,Clayey,9,17,19,10-26-26
+Paddy,31,84,48,Clayey,7,11,32,14-35-14
+Ground Nuts,29,58,40,Red,24,4,43,28-28
+Cotton,30,18,61,Black,38,0,0,Urea
+Paddy,,57,37,Clayey,11,15,21,10-26-26
+Cotton,25,16,62,Loamy,35,0,0,Urea
+Ground Nuts,25,52,38,Red,37,0,0,Urea
+Ground Nuts,27,47,39,Red,39,0,0,Urea
+Maize,26,52,44,Sandy,23,0,43,28-28
+Maize,32,76,47,Sandy,22,0,21,28-28
+Cotton,29,18,62,Loamy,36,0,0,Urea
+Paddy,,58,41,Clayey,6,16,19,10-26-26
+Maize,31,84,53,Sandy,8,7,26,14-35-14
+Paddy,,80,25,Clayey,5,15,19,10-26-26
+Cotton,28,12,64,Loamy,37,0,0,Urea
+Maize,32,10,44,Sandy,37,0,0,Urea
+Ground Nuts,26,57,33,Red,35,0,0,Urea
+Ground Nuts,32,59,34,Red,39,0,0,Urea
+Maize,30,63,45,Sandy,21,0,21,28-28
+Sugarcane,28,69,64,Loamy,11,5,35,14-35-14
+Maize,29,15,37,Sandy,33,0,0,Urea
+Maize,31,34,43,Sandy,21,0,18,28-28
+Paddy,,52,36,Clayey,10,15,21,10-26-26
+Paddy,29,75,42,Clayey,9,10,22,14-35-14
+Ground Nuts,31,45,39,Red,36,0,0,Urea
+Cotton,27,26,59,Red,10,9,31,14-35-14
+Ground Nuts,27,52,32,Red,36,0,0,Urea
+Paddy,25,74,29,Clayey,6,16,17,10-26-26
+Cotton,28,54,65,Black,39,2,37,Urea
+Cotton,31,14,63,Loamy,33,0,0,Urea
+Paddy,,76,29,Clayey,12,15,22,10-26-26
+Paddy,25,71,48,Clayey,9,7,20,14-35-14
+Paddy,,54,34,Clayey,13,15,19,10-26-26
+Paddy,,66,26,Clayey,7,16,21,10-26-26
+Cotton,31,14,62,Loamy,32,0,0,Urea
+Paddy,,81,41,Clayey,7,19,17,10-26-26
+Cotton,29,10,60,Loamy,35,0,0,Urea
+Sugarcane,31,67,55,Loamy,8,8,33,14-35-14
+Maize,32,16,32,Sandy,35,0,0,Urea
+Paddy,26,68,27,Clayey,7,17,21,10-26-26
+Cotton,28,19,62,Loamy,32,0,0,Urea
+Cotton,30,15,60,Loamy,37,0,0,Urea
+Cotton,32,12,63,Loamy,38,0,0,Urea
+Paddy,25,19,36,Clayey,21,0,19,28-28
+Paddy,,90,31,Clayey,7,19,18,10-26-26
+Ground Nuts,25,43,32,Red,36,0,0,Urea
+Maize,30,19,33,Sandy,35,0,0,Urea
+Maize,30,18,41,Sandy,31,0,0,Urea
+Ground Nuts,30,54,35,Red,38,0,0,Urea
+Sugarcane,29,58,57,Black,12,2,21,20-20
+Paddy,,56,38,Clayey,12,17,21,10-26-26
+Cotton,32,10,61,Loamy,32,0,0,Urea
+Paddy,,83,37,Clayey,11,18,20,10-26-26
+Cotton,25,14,61,Loamy,32,0,0,Urea
+Ground Nuts,27,84,35,Red,37,0,0,Urea
+Cotton,26,13,63,Loamy,31,0,0,Urea
+Maize,28,18,39,Sandy,34,0,0,Urea
+Paddy,,82,45,Clayey,5,18,19,10-26-26
+Cotton,27,17,62,Loamy,37,0,0,Urea
+Paddy,28,48,49,Clayey,34,0,0,Urea
+Paddy,,79,35,Clayey,13,17,17,10-26-26
+Cotton,31,19,64,Loamy,39,0,0,Urea
+Paddy,,90,42,Clayey,12,17,22,10-26-26
+Maize,31,73,37,Sandy,7,10,31,14-35-14
+Ground Nuts,26,48,41,Red,38,0,0,Urea
+Cotton,32,19,64,Black,37,0,0,Urea
+Paddy,,67,45,Clayey,10,16,17,10-26-26
+Ground Nuts,30,52,37,Red,39,0,0,Urea
+Ground Nuts,32,56,31,Red,41,0,0,Urea
+Cotton,32,17,60,Loamy,30,0,0,Urea
+Ground Nuts,30,68,36,Red,39,0,0,Urea
+Paddy,,66,43,Clayey,9,19,17,10-26-26
+Paddy,32,43,43,Clayey,38,0,0,Urea
+Paddy,27,38,43,Clayey,25,1,18,28-28
+Cotton,26,12,62,Loamy,35,0,0,Urea
+Paddy,,88,33,Clayey,8,15,21,10-26-26
+Paddy,,82,41,Clayey,11,17,17,10-26-26
+Paddy,,57,26,Clayey,11,19,20,10-26-26
+Sugarcane,29,40,58,Loamy,8,9,38,14-35-14
+Paddy,27,60,41,Clayey,36,0,0,Urea
+Cotton,29,17,60,Loamy,32,0,0,Urea
+Paddy,,53,26,Clayey,11,19,20,10-26-26
+Paddy,26,58,37,Clayey,11,16,20,10-26-26
+Paddy,29,4,46,Clayey,35,0,0,Urea
+Maize,32,11,32,Sandy,31,0,0,Urea
+Paddy,,53,26,Clayey,8,17,22,10-26-26
+Cotton,31,62,63,Red,11,0,44,17-17-17
+Cotton,32,15,64,Loamy,34,0,0,Urea
+Paddy,29,44,49,Clayey,38,0,0,Urea
+Sugarcane,34,65,60,Black,35,3,39,Urea
+Paddy,32,62,41,Clayey,24,3,38,28-28
+Paddy,,84,36,Clayey,8,15,21,10-26-26
+Paddy,,53,34,Clayey,6,15,18,10-26-26
+Paddy,30,84,30,Clayey,7,16,21,10-26-26
+Paddy,,90,45,Clayey,6,15,17,10-26-26
+Maize,31,11,43,Sandy,37,0,0,Urea
+Paddy,,86,25,Clayey,7,16,21,10-26-26
+Paddy,26,18,36,Clayey,21,2,19,28-28
+Cotton,28,19,63,Loamy,37,0,0,Urea
+Cotton,30,13,62,Loamy,36,0,0,Urea
+Maize,27,18,38,Sandy,37,0,0,Urea
+Paddy,,56,27,Clayey,6,19,19,10-26-26
+Paddy,,88,42,Clayey,8,18,20,10-26-26
+Cotton,32,11,64,Loamy,38,0,0,Urea
+Paddy,,80,35,Clayey,7,18,17,10-26-26
+Maize,25,30,44,Sandy,23,0,19,28-28
+Cotton,32,16,60,Loamy,36,0,0,Urea
+Paddy,32,77,49,Clayey,9,8,20,14-35-14
